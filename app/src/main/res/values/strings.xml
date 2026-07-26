@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mi Perfil</string>
+
+    <!-- Pantalla de bienvenida -->
+    <string name="text_bienvenida">Bienvenido, registra tu información personal</string>
+    <string name="text_btnIniciar">Iniciar</string>
+
+    <!-- Registro de perfil -->
+    <string name="text_titulo_registro">Registro de Perfil</string>
+    <string name="hint_nombres">Nombres y apellidos</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_telefono">Número de teléfono</string>
+    <string name="hint_fecha_nacimiento">Fecha de nacimiento (dd/MM/yyyy)</string>
+    <string name="hint_direccion">Dirección de residencia</string>
+    <string name="text_btnTomarFoto">Tomar Foto</string>
+    <string name="text_btnGuardar">Guardar</string>
+
+    <string name="permiso_camara_pendiente">Aún no se ha solicitado el permiso de cámara</string>
+    <string name="permiso_camara_concedido">El usuario concedió el permiso para la cámara</string>
+    <string name="permiso_camara_denegado">No se puede acceder a la cámara, permiso denegado</string>
+
+    <string name="error_campos_vacios">Todos los campos son obligatorios</string>
+    <string name="error_correo_invalido">El correo electrónico no es válido</string>
+    <string name="error_telefono_invalido">El teléfono debe contener entre 8 y 15 dígitos</string>
+    <string name="error_fecha_invalida">La fecha debe tener el formato dd/MM/yyyy</string>
+
+    <!-- Perfil guardado -->
+    <string name="text_titulo_resumen">Perfil Guardado</string>
+    <string name="text_btnRegresarInicio">Regresar al inicio</string>
+    <string name="text_btnNuevoPerfil">Nuevo perfil</string>
+    <string name="formato_resumen">Nombres y apellidos:\n%1$s\n\nCorreo electrónico:\n%2$s\n\nTeléfono:\n%3$s\n\nFecha de nacimiento:\n%4$s\n\nDirección:\n%5$s\n\nPermiso de cámara:\n%6$s</string>
+</resources>
